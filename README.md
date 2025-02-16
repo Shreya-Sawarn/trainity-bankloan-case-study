@@ -1,0 +1,1 @@
+This project is a data analyst project provided by trainity.It is a special case of a bank ,provided as a dataset for the data analyst trainees to work upon. It is not not concerned with any such bank authorities and is just provided for the training purpose as a project to students.
